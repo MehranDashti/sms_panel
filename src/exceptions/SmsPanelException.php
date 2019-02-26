@@ -1,5 +1,5 @@
 <?php
-namespace src\exceptions;
+namespace mehrand\sms_panel\exceptions;
 use Exception;
 /**
  * Class SmsPanelException

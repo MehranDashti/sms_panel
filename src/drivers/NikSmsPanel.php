@@ -1,8 +1,8 @@
 <?php
-namespace src\drivers;
-use src\exceptions\SmsConfigException;
-use src\exceptions\SmsPanelException;
-use src\modules\sms\abstracts\SmsHandler;
+namespace mehrand\sms_panel\drivers;
+use mehrand\sms_panel\exceptions\SmsConfigException;
+use mehrand\sms_panel\exceptions\SmsPanelException;
+use mehrand\sms_panel\modules\sms\abstracts\SmsHandler;
 /**
  * Class NikSmsPanel
  * @package app\modules\sms\models
