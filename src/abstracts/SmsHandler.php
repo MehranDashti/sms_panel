@@ -1,7 +1,7 @@
 <?php
-namespace app\abstracts;
+namespace src\abstracts;
 
-use app\exceptions\SmsConfigException;
+use src\exceptions\SmsConfigException;
 
 /**
  * This class is the parent of every sms panel

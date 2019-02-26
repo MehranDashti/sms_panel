@@ -1,5 +1,5 @@
 <?php
-namespace app\exceptions;
+namespace src\exceptions;
 use Exception;
 /**
  * Class SmsConfigException
