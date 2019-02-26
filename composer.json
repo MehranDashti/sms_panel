@@ -1,0 +1,23 @@
+{
+    "name": "mehrand/sms_panel",
+    "type": "library",
+
+    "description": "The Imagine integration for the Yii framework",
+    "keywords": ["Yii2", "Laravel", "Php", "Sms"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Mehran Dashti",
+            "email": "mehran19.md@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "mehrand\\sms_panel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
